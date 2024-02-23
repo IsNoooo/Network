@@ -30,7 +30,8 @@ Vlan划分如下表所示
 | VLAN50 | 192.168.50.0/24 | 182.168.50.254 |
 
 学校网络拓扑图如下图所示
-![Snipaste_2024-02-22_23-33-22](https://github.com/IsNoooo/Network/assets/88282069/68f85461-a7a2-429f-b77d-6fa48fd64152)
+![屏幕截图 2024-02-23 153252](https://github.com/IsNoooo/Network/assets/88282069/3e24b2d2-30a5-4f6d-a81b-82d8898f87aa)
+
 
 ### 使用到到的网络技术
 1、VLAN（虚拟局域网）技术
